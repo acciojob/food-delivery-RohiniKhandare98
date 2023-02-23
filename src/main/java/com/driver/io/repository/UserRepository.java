@@ -1,6 +1,6 @@
 package com.driver.io.repository;
 
-import com.driver.model.entity.UserEntity;
+import com.driver.io.repository.entity.UserEntity;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
